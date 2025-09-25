@@ -1,9 +1,4 @@
 # 🎮 Simon Game
-
-![GitHub repo size](https://img.shields.io/github/repo-size/Ali-Tharwat8/Simon-Game?color=blue)  
-![GitHub last commit](https://img.shields.io/github/last-commit/Ali-Tharwat8/Simon-Game?color=brightgreen)  
-![GitHub license](https://img.shields.io/github/license/Ali-Tharwat8/Simon-Game?color=yellow)
-
 Simon Game is a memory-challenge game built using HTML, CSS, and JavaScript. The game shows a sequence of colors (and sounds), and the player must repeat the sequence correctly. Each round, the sequence increases by one step, testing memory and concentration.
 
 ---
