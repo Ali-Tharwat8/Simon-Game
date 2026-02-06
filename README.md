@@ -1,3 +1,5 @@
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Now-6366f1?style=for-the-badge)]([https://brain-rush-nu.vercel.app](https://ali-tharwat8.github.io/Simon-Game/))
+
 # 🎮 Simon Game
 Simon Game is a memory-challenge game built using HTML, CSS, and JavaScript. The game shows a sequence of colors (and sounds), and the player must repeat the sequence correctly. Each round, the sequence increases by one step, testing memory and concentration.
 
